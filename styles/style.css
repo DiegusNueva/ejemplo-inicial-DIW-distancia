@@ -1,11 +1,11 @@
-p{
-    background-color: orange;
-}
-
 h1{
     color: blueviolet;
 }
 
 .styles-p{
-    
+    background-color: orange;  
+    border: solid 5px black;
+    padding: 25px 25px 25px 25px;
+    color: rgb(46, 57, 108);
+    font-size: small;
 }
